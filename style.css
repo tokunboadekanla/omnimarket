@@ -1,0 +1,198 @@
+/*div{
+     min-height:300px;
+     border:1px solid red;
+}*/
+.navbar{
+     padding-left:0px;
+     margin-left: 0px;
+     margin-right: 0px;
+}
+.navbar-brand strong{
+     color:red;
+}
+.active img{
+     height:500px;
+}
+.product{
+     padding-top:10px;
+     padding-bottom:10px;
+}
+.product img{
+     height:500px;
+}
+.product_image{
+     width:30px;
+     height:500px; 
+}
+.column-gap{
+     gap:20px;
+     
+}
+.container{
+     padding-top:50px;
+}
+.container_banner{
+     padding-bottom:10px;
+}
+.container_product{
+     width:inherit;
+     background-color:lightyellow;
+}
+.read_bt{
+     color:lightblue;
+}
+.about_img{
+     width:100%;
+     padding-bottom:100px;
+}
+.about_section{
+     background-color:tomato;
+}
+.services_section_1{
+     text-align:center;
+}
+.services_text{
+     font-family: "water-brush","lucida calligraphy",cursive;
+     font-size: 20px;
+     font-style: revert;
+     color:red;
+}
+.see_more{
+     color:orange;
+}
+.container_section{
+     background-image:url(images/services-bg.png images/services-bg.png);
+     background-repeat: no-repeat;
+     background-size: contain;
+}
+.layout{
+     width:inherit;
+     min-height:inherit;
+     padding-top:50px;
+     padding-bottom: 100px;
+     margin-bottom: 10px;
+     background-color:teal;
+}
+.box_main{
+     border:1px solid red;
+     box-sizing: border-box;
+     justify-content: space-between;
+     background-color:orange;
+}
+.box_padding{
+     padding-left:150px;
+     padding-right:150px ;
+}
+.box_main house_icon i{
+     align-items:center;
+     width:100px;
+     height:100px;
+     justify-content: center;
+}
+.decorate_text{
+     font-family:arial,verdana,san-serif;
+     font-size:25px;
+     font-style:italic;
+}
+.station_text{
+     font-family:"water-brush","lucida calligraphy",cursive;
+     font-size:20px;
+     font-style:oblique;
+}
+.readmore_bt a{
+     color:blue;
+}
+.container_testi{
+     padding-top:50px;
+}
+.client_testi{
+     color:tomato;
+     margin-top:0px;
+}
+.client_text{
+     font-family:arial, verdana, san-serif;
+     font-style: oblique;
+}
+.testimonial_section_2{
+     padding-top:10px;
+     padding-left: 20px;
+     padding-right: 20px;
+     min-height: 50px;
+     border-left:2px solid black;
+     border-top: 2px solid black;
+}
+.testimonial3{
+     padding-left:120px;
+}
+.client_name_text{
+     color:tomato;
+}
+.quick_icon{
+     width: 10px;
+     height:10px;
+}
+.layout2{
+     padding-bottom: 30px;
+     background-color:beige;
+}
+.contact{
+     padding-top:50px;
+}
+.contact_text{
+     text-align:center;
+}
+.form_group{
+     padding-top: 100px;
+}
+
+.form-item input{
+     width:350px;
+     padding:10px;
+}
+.massage{
+     width:350px;
+     padding:10px;
+}
+.send_button{
+     background-color:blue;
+     padding:10px;
+     border-color: green;
+}
+.send_button a{
+     color:red;
+}
+.layout3{
+     background-color:#3A4F41;
+}
+.contactlayout{
+     margin-top:-100px;
+}
+.footer{
+     min-height:inherit;
+     width:inherit;
+     justify-content: space-around;
+     margin:10px 0px 0px 2px;
+}
+.footer_item{
+     background-color:black;
+     color:#fff;
+}
+
+.menu1{
+     padding-left:10px;
+}
+.menu2{
+     padding-left: 25px;
+}
+.menu{
+     list-style-type: none;
+}
+.about_us{
+     background-color: lightblue;
+}
+.our_product{
+     background-color: rgba(100,98,130,0.4);
+}
+.our_services{
+     background-color: rgba(120,1088,140,0.5);
+}
